@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: sistemas da informação
 - 😄 Pronouns: ela/dela
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/julialeticiagi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julialeticiagi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialeticiagi&layout=compact&langs_count=7&theme=dracula"/>
