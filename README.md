@@ -1,6 +1,6 @@
 ### Olá !! Sou a Julia Leticia :) <3
 
-- 🌱 I’m currently learning: sistemas da informação
+- 🌱 I’m currently learning: sistemas de informação
 - 😄 Pronouns: ela/dela
 
 <div align="left">
